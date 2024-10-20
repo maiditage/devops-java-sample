@@ -1,4 +1,4 @@
-FROM java:openjdk-8-jre-alpine
+FROM fabric8/java-alpine-openjdk8-jre:1.9.0
 
 WORKDIR /home
 
